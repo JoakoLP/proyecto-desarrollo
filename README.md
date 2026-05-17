@@ -2,7 +2,7 @@
 
 **Integrantes:** 
 * Franco Esperanza
-* Matias Goya
+* Matias Goya Campanella
 * Franco Pagani
 * Joaquín Takara
 * Rubén Veliz
