@@ -2,13 +2,13 @@
 
 **Integrantes:** 
 * Franco Esperanza
-* Matias Goya
+* Matias Goya Campanella
 * Franco Pagani
 * Joaquín Takara
 * Rubén Veliz
 
 
-**Fecha:** 10 de mayo de 2026
+**Fecha:** 19 de mayo de 2026
 
 **Materia:** Desarrollo de Software S34 - UTN
 
